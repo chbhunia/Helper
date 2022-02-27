@@ -1,0 +1,10 @@
+git diff --color-words
+
+Discard/Undo changes in the working branch
+git checkout -- <file>
+
+unstages files 
+git reset <HEAD file_name>
+
+Retrieve old versions
+git checkout <commit_id> -- <file_name>
